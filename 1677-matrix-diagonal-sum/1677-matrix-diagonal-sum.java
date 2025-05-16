@@ -8,7 +8,7 @@ public class Solution {
             sum += mat[i][n - 1 - i];
             
         }
-        if((n%2)==1){
+        if((n%2)!=0){
             sum-=mat[n/2][n/2];
         }
         return sum;
