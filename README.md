@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gudepavannaren/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/gudepavannaren/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/gudepavannaren/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/gudepavannaren/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/gudepavannaren/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gudepavannaren/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/gudepavannaren/LeetCode/tree/master/1013-fibonacci-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gudepavannaren/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/gudepavannaren/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/gudepavannaren/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/gudepavannaren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/gudepavannaren/LeetCode/tree/master/0898-transpose-matrix) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gudepavannaren/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gudepavannaren/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
