@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gudepavannaren/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/gudepavannaren/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/gudepavannaren/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/gudepavannaren/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/gudepavannaren/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/gudepavannaren/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gudepavannaren/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/gudepavannaren/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/gudepavannaren/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
