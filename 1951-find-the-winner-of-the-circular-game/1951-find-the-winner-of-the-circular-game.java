@@ -1,6 +1,9 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
+/*
+Using Queue
+
 public class Solution {
     public int findTheWinner(int n, int k) {
         Queue<Integer> queue = new LinkedList<>();
@@ -16,4 +19,17 @@ public class Solution {
 
         return queue.peek();
     }
-}
+}*/
+
+public class Solution {
+    public int findTheWinner(int n,int k){
+        return josephus(n,k)+1;
+    }
+    private int josephus(int n,int k){
+        if(n==1){
+            return 0;
+        }
+        return (josephus(n-1,k)+k)%n;
+    }
+}  
+ 
