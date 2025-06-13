@@ -158,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gudepavannaren/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/gudepavannaren/LeetCode/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gudepavannaren/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gudepavannaren/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/gudepavannaren/LeetCode/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gudepavannaren/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -172,5 +174,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gudepavannaren/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/gudepavannaren/LeetCode/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gudepavannaren/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gudepavannaren/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
